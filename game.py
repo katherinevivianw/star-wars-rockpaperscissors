@@ -1,3 +1,12 @@
+'''
+Remake of the classic Rock, Paper, Scissors game in the theme of Star Wars.
+Players represent the Galactic Republic and play against the Separatists,
+aka the computer's randomized choices.
+
+Made by: Katherine Wong
+Date: July 31st - August 3rd, 2022
+'''
+
 import random
 import time
 
